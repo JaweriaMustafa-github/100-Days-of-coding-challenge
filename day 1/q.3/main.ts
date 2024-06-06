@@ -1,3 +1,5 @@
+// Question 3
+
 let myName : string = "Jaweria";
 // All small letters 
 console.log(myName.toLowerCase());
